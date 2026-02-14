@@ -1,6 +1,6 @@
-# Zylos Website – Project Showcase
+Zylos Website – Project Showcase
 
-## Overview
+Overview
 
 This repository is a public showcase of the Zylos website, an AI-powered platform built to help small businesses and founders grow smarter and faster.
 
@@ -10,7 +10,7 @@ It’s meant to give a clear look at how the platform is designed and how the sy
 
 ---
 
-## What Zylos Does
+What Zylos Does
 
 Zylos focuses on making advanced tools simple and usable for everyday builders and entrepreneurs.
 
@@ -24,7 +24,7 @@ Key areas include:
 
 ---
 
-## Tech Stack
+Tech Stack
 
 - Frontend: React, Next.js, TailwindCSS  
 - Animations: Framer Motion  
@@ -33,7 +33,7 @@ Key areas include:
 
 ---
 
-## Project Notes
+Project Notes
 
 - Core application code is private  
 - This repository is for reference and demonstration purposes  
@@ -41,6 +41,6 @@ Key areas include:
 
 ---
 
-## Live Site
+Live Site
 
 https://zylos.us
