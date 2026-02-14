@@ -1,34 +1,46 @@
-# Zylos Site Showcase
+# Zylos Website – Project Showcase
 
-**Built by Teddy (codebytaaron)**
+## Overview
+
+This repository is a public showcase of the Zylos website, an AI-powered platform built to help small businesses and founders grow smarter and faster.
+
+The full production code is private, but this repo highlights the structure, features, and overall approach behind the project.
+
+It’s meant to give a clear look at how the platform is designed and how the system fits together.
 
 ---
 
-## About Zylos
-This is a showcase of the **Zylos website** — an AI-powered business growth platform designed to help small businesses and entrepreneurs scale smarter, faster, and more efficiently.  
+## What Zylos Does
 
-The **full source code is private**, but this repository demonstrates the project structure, features, and technologies used.
+Zylos focuses on making advanced tools simple and usable for everyday builders and entrepreneurs.
 
----
+Key areas include:
 
-## Key Features
-- **AI Business Tools:** Personalized AI tutoring, automation tools, and business insights.  
-- **Marketing Analytics:** Track campaigns and optimize performance with real-time data.  
-- **User-Friendly Dashboard:** Modular design with a clear layout and smooth transitions.  
-- **Responsive Design:** Fully responsive across devices with a dark/light theme toggle.  
-- **Performance Focused:** Optimized with modern frontend tools for fast load times.
+- AI-powered tutoring and automation  
+- Business performance insights  
+- Campaign and growth tracking  
+- Clean, modern dashboard design  
+- Responsive layouts for desktop and mobile  
 
 ---
 
 ## Tech Stack
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Animations:** Framer Motion for scroll and hover effects  
-- **Backend & Integrations:** Node.js, Firebase, Stripe, OpenAI APIs  
-- **Build & Deployment:** Vite, npm scripts, GitHub Pages
+
+- Frontend: React, Next.js, TailwindCSS  
+- Animations: Framer Motion  
+- Backend & Integrations: Node.js, Firebase, Stripe, OpenAI APIs  
+- Build & Deployment: Vite, npm, GitHub Pages  
 
 ---
 
-## Screenshots / Visuals
-zylos.us
+## Project Notes
 
-*(Full code is private, this is for reference only)*
+- Core application code is private  
+- This repository is for reference and demonstration purposes  
+- Structure and workflows reflect the production system  
+
+---
+
+## Live Site
+
+https://zylos.us
