@@ -8,8 +8,6 @@ The full production code is private, but this repo highlights the structure, fea
 
 It’s meant to give a clear look at how the platform is designed and how the system fits together.
 
----
-
 What Zylos Does
 
 Zylos focuses on making advanced tools simple and usable for everyday builders and entrepreneurs.
@@ -22,16 +20,12 @@ Key areas include:
 - Clean, modern dashboard design  
 - Responsive layouts for desktop and mobile  
 
----
-
 Tech Stack
 
 - Frontend: React, Next.js, TailwindCSS  
 - Animations: Framer Motion  
 - Backend & Integrations: Node.js, Firebase, Stripe, OpenAI APIs  
 - Build & Deployment: Vite, npm, GitHub Pages  
-
----
 
 Project Notes
 
